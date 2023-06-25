@@ -94,7 +94,7 @@ export default {
   .bg-black {
     position: absolute;
     width: 100%;
-    height: 800px;
+    height: 750px;
     background-color: black;
     opacity: 0;
     transition: opacity .5s;
@@ -120,12 +120,12 @@ export default {
   }
 
   .info-title {
-    font-size: 4rem; color: #fff;
+    font-size: 3rem; color: #fff;
     text-shadow: 1px 1px 1px #474747;
   }
 
   .info-title span {
-    font-size: 1.7rem;
+    font-size: 1.2rem;
     color: #cccccc;
   }
 
@@ -264,6 +264,6 @@ export default {
 
   .img-box img {
     width: 100%;
-    height: 800px;
+    height: 750px;
   }
 </style>
