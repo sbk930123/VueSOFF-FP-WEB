@@ -1,30 +1,30 @@
 export default [
   {
     id: 0,
-    title: 'SI 사업',
-    subTitle: 'SSA(Ssof Service Architecture)',
-    infoText: '동일한 구성과 구조를 통해 개발되는 SW는 공동모듈을 통해 개발기간을 단축하고 다양한 솔루션을 단기간에 개발을 할 수 있습니다. SSA는 SSA기반으로 개발된 Package 솔루션, SI프로젝트를 통해 많은 고객이 경험 하였으며, 그 경험은 다시 SSA에 Know-how로 남아 있습니다.',
+    title: 'Monitoring',
+    subTitle: '환경 설비 통합 모니터링 솔루션',
+    infoText: '시스네트정보의 InfraPatrol(인프라패트롤) 솔루션은 환경 설비 통합 모니터링 솔루션(FMS:Facility Monitoring System)으로써 지난 10여 년간 300곳 이상의 다양한 고객사에 공급해왔습니다. 시스네트정보는 이 분야 세계적 선도 기업인 AKCP 사를 비롯하여 Pakcket Power (US) 사, BatteryDAQ (US) 사,  pikkerton (Germany) 사, ServersCheck (Belgium) 사, NetPing (Taiwan) 사의 공인 사업 파트너입니다.',
     imgSrc: require('../assets/images/fms_new.png')
   },
   {
     id: 1,
-    title: '해외 Biz',
-    subTitle: 'POS 및 물류시스템',
-    infoText: '국내에서 이룬 유통 시장의 성과와 경험을 바탕으로 해외 신규 사업을 개척하고 있습니다. 2019년 베트남 현지 88개 한인점포인 K Mart에 POS 및 물류시스템을 개발 공급하였고, 베트남 현지 리조트 통합 Solution을 개발 중에 있으며, 르완다 조세 당국에 전자영수증 고도화 사업을 진행중에 있습니다.',
+    title: 'Systems',
+    subTitle: '서버/스토리지',
+    infoText: '시스네트정보는 지난 20여 년 동안 높은 신뢰와 다양한 경험/노하우를 바탕으로 IBM, HP, DELL/EMC 사의 하드웨어 및 솔루션을 전문 서비스와 함께 국내 여러 유수 고객사에게 지속적으로 제공하고 있습니다.',
     imgSrc: require('../assets/images/mainimg-server.png')
   },
   {
     id: 2,
-    title: 'IT 서비스 사업',
-    subTitle: 'SLA(Service Level Agreement)',
-    infoText: '쏘프는 전국 8,000여개의 나들가게 점포에 시스템 운영과 콜센터를 운영하고 있습니다. 쏘프가 개발한 Solution에 대한 국내 전 고객에게 서비스가 가능하고, SLA(Service Level Agreement)를 통해 서비스 품질을 검증 받으며, OCS(One Call Service)를 제공합니다.',
+    title: 'Maintenance',
+    subTitle: '기술/SM 서비스',
+    infoText: '시스네트정보의 SM(System Maintenance) 서비스는 복잡하고 다양한 IT 인프라스트럭처의 설치 유지 보수 및 업무 응용 시스템의 개발 운영에 관련된 많은 계약 및 파견업무를 수행하고 있으며, 성실하고 책임 있는 자세로 고객의 신뢰를 얻고 있습니다.',
     imgSrc: require('../assets/images/main_maintanance.png')
   },
   {
     id: 3,
-    title: '(주)쏘프',
-    subTitle: 'Smart Software',
-    infoText: '스마트한 솔루션, 높은 퀄리티, 사용자 중심의 솔루션 제공을 위해 최선을 다하고 있으며, 넘치는 아이디어와, 무한한 열정으로 솔루션 개발에 앞장서고 싶다면, 지금 바로 쏘프에서 시작해보세요.',
+    title: 'Degausser',
+    subTitle: '디가우저/영구삭제',
+    infoText: '시스네트정보는 영구삭제 분야에서 20년 이상 제품 생산 및 서비스를 해온 세계적 전문 기업 VS Security Products (UK), Garner Products (US) 및 Proton Data Security (US) 사와 사업 파트너십을 맺고 다양한 제품 판매, 영구삭제/파쇄 및 장비 렌탈 서비스를 제공하고 있습니다.',
     imgSrc: require('../assets/images/main_degausser.png')
   },
 ]

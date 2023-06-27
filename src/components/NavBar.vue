@@ -10,7 +10,7 @@
     </div>
     <div class="nav-wrapper">
       <div class="logo-box">
-        <a href=""><img class="logo" src="../assets/images/soff-logo.jpg" alt="logo"></a>
+        <a href=""><img class="logo" src="../assets/images/logo.png" alt="logo"></a>
       </div>
       <div class="nav-list-wrapper">
         <ul class="nav-list" v-on:mouseleave="mouseNotOverEvent()">
@@ -113,11 +113,13 @@ export default {
     height: 68px;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     padding: 5px 0;
   }
 
   .logo {
-    width: 150px;
+    width: 190px;
+    padding-right: 20px;
   }
 
   .nav-list-wrapper {

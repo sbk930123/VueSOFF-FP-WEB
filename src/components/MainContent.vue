@@ -131,7 +131,7 @@ export default {
 
   .info-text {
     width: 100%; transform: translateX(20px);
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-top: 20px;
     color: #fff;
     line-height: 35px;
